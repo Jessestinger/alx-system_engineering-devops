@@ -1,6 +1,4 @@
-# 0x15. API
-
-All along, we have been writing shell scripts for cross-platform communication. In this project, I am introduced to <b>Application Programming Interfaces</b> which is simply a <i>software intermediary that allows two applications to talk to each other though defined interfaces.</i>
+# 0x15 API
 
 Concepts learnt:
 - What Bash scripting should not be used for
@@ -14,6 +12,3 @@ Concepts learnt:
 - Pythonic Variable name style
 - Pythonic Function name style
 - Pythonic Constant name style
-- Significance of CapWords or CamelCase in Python
-
-This directory contains python script I wrote with this [REST API](https://jsonplaceholder.typicode.com/)
